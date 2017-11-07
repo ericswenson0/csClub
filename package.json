@@ -1,0 +1,23 @@
+{
+  "name": "csclub",
+  "version": "1.0.0",
+  "description": "",
+  "main": "HelloWorld.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node HelloWorld.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ericswenson0/csClub.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ericswenson0/csClub/issues"
+  },
+  "homepage": "https://github.com/ericswenson0/csClub#readme",
+  "dependencies": {
+    "express": "^4.16.2"
+  }
+}
